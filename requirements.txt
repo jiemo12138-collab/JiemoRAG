@@ -1,0 +1,10 @@
+lightrag-hku
+fastapi
+uvicorn
+python-multipart
+streamlit
+openai
+tiktoken
+numpy
+sentence-transformers
+python-dotenv
